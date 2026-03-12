@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Melissa Ferreira</h1>
+<div id="imagem"> 
+    <img src="foto.png" alt="">
+    </div>
+<div>
+    <h3>Habilidades</h3>
+    <ul>
+    <li>dfhdsfhdus</li>
+    <li>dhfkjdshfhds</li>
+    <li>dsjkfhsdkj</li>
+    <li>dfhsdhf</li>
+    <li>sdkfhds</li>
+    </ul>
+</div>
+<div>
+    <h3>
+        linguas
+    </h3>
+    <ul>
+    <li>dfhdsfhdus</li>
+    <li>dhfkjdshfhds</li>
+    <li>dsjkfhsdkj</li>
+    <li>dfhsdhf</li>
+    <li>sdkfhds</li>
+    </ul>
+</div>
+<div>
+    <h3>Experiencias</h3>
+    <h4>dskfdakhfkd</h4>
+    <ul>
+    <li>dfhdsfhdus</li>
+    <li>dhfkjdshfhds</li>
+    <li>dsjkfhsdkj</li>
+    <li>dfhsdhf</li>
+    <li>sdkfhds</li>
+    </ul>
+    
+</div>
+<div>
+    <h4>Especialista</h4>
+    <li>dfhdsfhdus</li>
+    <li>dhfkjdshfhds</li>
+    <li>dsjkfhsdkj</li>
+    <li>dfhsdhf</li>
+    <li>sdkfhds</li>
+</div>
+<div>
+    <h3>Educação</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, exercitationem iste. Impedit, praesentium iure.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, magni et. Aliquam, dolores modi!</p>
+    <p>sfjdafh</p>
+    <p>dsfhdsfjl</p>
+
+</div>
+<div><ul>
+<li> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora nobis voluptates pariatur!
+</li>
+</ul></div>
+
+</body>
+</html>
